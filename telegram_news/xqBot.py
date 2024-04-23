@@ -8,7 +8,7 @@ from rss_fetcher import monitor_rss
 
 # Set the RSS URL and the refresh interval
 rss_url_bbc = "http://feeds.bbci.co.uk/news/rss.xml"
-rss_url_ifanr= "http://www.ifanr.com/feedhttp://www.ifanr.com/feed"
+rss_url_ifanr= "http://www.ifanr.com/feed"
 
 rss_url= rss_url_ifanr
 refresh_interval = 15  # in seconds
